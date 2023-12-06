@@ -24,7 +24,7 @@ export const HomeTemplate = ({
   min,
 }: Props) => (
   <LinearGradient
-    colors={["#292A4E", "#715C77", "#C75C2E"]}
+    colors={["#FA3400", "#FF9D08", "#02AAF3"]}
     style={styles.container}
   >
     <View style={styles.content}>
