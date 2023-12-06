@@ -25,7 +25,7 @@ export const InfoMolecule = ({ user, weather, max, min }: Props) => (
 
 const styles = StyleSheet.create({
   info: {
-    paddingVertical: 72,
+    paddingVertical: 34,
     alignItems: "center",
     gap: 10,
   },
